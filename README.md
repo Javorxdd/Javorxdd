@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @Javorxdd
 - 👀 I’m interested in programing and HAM
-- 🌱 I’m currently learning C++, C#, HTML, PHP, Js and Java
-- 💞️ I’m looking to collaborate with some energic people :)
-- 📫 How to reach me javor.cekuj@seznam.cz or Instagram: javor_dev
+- 🌱 I’m currently learning C++, C#, HTML, PHP, JS and Java
