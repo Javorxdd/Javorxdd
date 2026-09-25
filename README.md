@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Javorxdd
 - 👀 I’m interested in programing and HAM
-- 🌱 I’m currently learning C++, C#, HTML, PHP, JS and Java
+- 🌱 I’m currently learning C++, HTML, PHP and Java
